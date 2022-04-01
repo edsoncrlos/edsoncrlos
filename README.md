@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m not currently working
-- 🌱 I’m currently learning Java, POO
+- 🌱 I’m currently learning html, css and javascript
 
 <!--
 - 🤔 I’m looking for help with 
