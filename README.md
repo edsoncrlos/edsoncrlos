@@ -2,7 +2,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Pleasure to meet you. I'm Edson.</h1>
 
 - 🔭 I’m not currently working
-- 🌱 I'm curently learning React
+- 🌱 I'm curently learning Angular
 
 ## 🚀💻 Technologies & Tools
 
@@ -19,8 +19,8 @@
     <a href="https://nodejs.org/en/" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-33933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <a href="https://angular.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
