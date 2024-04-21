@@ -40,4 +40,4 @@
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=edsoncrlos" alt="edsoncrlos" /></p> -->
 
-![YOUR github stats](http://github-readme-streak-stats.herokuapp.com/?user=edsoncrlos&theme=white)
+<!-- ![YOUR github stats](http://github-readme-streak-stats.herokuapp.com/?user=edsoncrlos&theme=white)-->
