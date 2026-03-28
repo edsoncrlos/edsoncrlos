@@ -1,26 +1,38 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Pleasure to meet you. I'm Edson.</h1>
 
-- 🔭 I’m not currently working
-- 🌱 I'm curently learning Angular
+- 🔭 I’m currently in [LSDi](https://www.lsdi.ufma.br/)
+- 🌱 I'm curently learning Spring boot
 
 ## 🚀💻 Technologies & Tools
 
 <div >
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html 5"/>
+    <a href="https://spring.io/projects/spring-boot/" target="_blank">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring boot"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css 3"/>
+    <a href="https://angular.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whit" alt="angular"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
     </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img src="https://img.shields.io/badge/Node.js-33933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node"/>
+    <a href="https://www.rabbitmq.com/" target="_blank">
+        <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq"/>
     </a>
-    <a href="https://angular.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <a href="https://redis.io/" target="_blank">
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
+    </a>
+    <a href="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+    </a>
+    <a href="https://docs.docker.com/compose/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker compose"/>
+    </a>
+    <a href="https://kubernetes.io/pt-br/" target="_blank">
+        <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij idea"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
@@ -37,7 +49,3 @@
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)
 -->  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edson-crlos/)  [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:edsoncarlos.dev@gmail.com)
-
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=edsoncrlos" alt="edsoncrlos" /></p> -->
-
-<!-- ![YOUR github stats](http://github-readme-streak-stats.herokuapp.com/?user=edsoncrlos&theme=white)-->
